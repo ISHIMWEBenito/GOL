@@ -1,0 +1,16 @@
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\GOL.exe
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\GOL.deps.json
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\GOL.runtimeconfig.json
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\GOL.runtimeconfig.dev.json
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\GOL.dll
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\ref\GOL.dll
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\bin\Debug\net5.0\GOL.pdb
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.csprojAssemblyReference.cache
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.AssemblyInfoInputs.cache
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.AssemblyInfo.cs
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.csproj.CoreCompileInputs.cache
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.dll
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\ref\GOL.dll
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.pdb
+C:\Users\Full Stack Developer\Downloads\Phito\GOL\obj\Debug\net5.0\GOL.genruntimeconfig.cache
